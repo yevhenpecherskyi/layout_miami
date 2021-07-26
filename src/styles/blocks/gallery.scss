@@ -1,9 +1,0 @@
-.gallery {
-  &__place {
-    margin-bottom: 32;
-
-    @include onDesktop {
-      margin-bottom: 40px;
-    }
-  }
-}
